@@ -6,3 +6,5 @@ cin >> k;
 cout << Вы ввели число << k << endl;
 return 0;
 }
+}
+}
